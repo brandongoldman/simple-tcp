@@ -7,3 +7,6 @@ In order to run the program, you must first start the server. Once the server is
 To run the server: `cc server.c -w && ./a.out <PORT #>`
 
 To run the client: `cc client.c -w && ./a.out <PORT #>`
+
+## Demo
+![Demo](https://i.imgur.com/LROxyDG.gifv)
